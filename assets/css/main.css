@@ -216,7 +216,7 @@ input, select, textarea {
 			z-index: -1;
 			background-attachment: fixed;
 			background-color: #e1e6e1;
-			background-image: url("../../images/high-roller.jpg"), url("../../images/high-roller.jpg");
+			background-image: url("../../images/high-roller.jpg"), url("https://images.pexels.com/photos/2316781/pexels-photo-2316781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
 			background-repeat: no-repeat;
 			background-size: 128px 128px, cover;
 			filter: brightness(75%);
